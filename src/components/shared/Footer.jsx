@@ -6,6 +6,7 @@ import {
   faTiktok,
   faWhatsapp,
 } from '@fortawesome/free-brands-svg-icons'
+import './Footer.css'
 
 const supportLinks = ['Central de ajuda', 'Como comprar', 'Métodos de pagamento', 'Trocas e devoluções', 'Fale conosco']
 const storeLinks = ['Sobre nós', 'Políticas da loja', 'Política de privacidade', 'Programa de afiliados', 'Seja um parceiro']
