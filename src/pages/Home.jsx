@@ -1,5 +1,8 @@
+import CarouselComponent from "../components/Carousel"
+
 export default function Home() {
-returh(
-    <h1>FUNCIONANDO!!!!!!!</h1>
-)
+return(
+    <CarouselComponent/>
+
+);
 }
